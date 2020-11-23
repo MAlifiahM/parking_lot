@@ -3,6 +3,11 @@
 - run npm install
 - run npn start for start the program
 
+## Command
+ - create_parking_lot ( number parking lot )
+ - park ( registration number ) ( color )
+ - status ( check status parking lot )
+ - exit ( for exit program )
 
 ## Problem Statement
     I own a parking lot that can hold up to 'n' cars at any given point in time. Each slot is
